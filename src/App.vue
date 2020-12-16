@@ -101,7 +101,7 @@ export default {
           contacto: '3104510576',
           correo: 'yiscan55@gmail.com',
           descripcion:'Ingeniera de petróleos, docente en el área de matemáticas, networker, actualmente estudio una especialización en pedagogía en la UNAD, programación con MinTic y guianza turística con el Sena. Me gusta leer, viajar, aprender cosas nuevas y ver documentales.', 
-          rol: 'Docente',
+          rol: 'Analista de Software',
           image: 'https://imgur.com/xmL9c29.jpg'
         },
 
@@ -111,7 +111,7 @@ export default {
           descripcion:'23 años, Ingeniero Químico.',
           contacto: '3024459660', 
           correo: 'davidbar22@hotmail.com',
-          rol: 'Quimico',
+          rol: 'Arquitecto de Software',
           image: 'https://imgur.com/SlH1buC.jpg'
         },
 
@@ -121,7 +121,7 @@ export default {
           descripcion:'Técnico en Sistemas, Cosmetología Esteticista, 43 años',
           contacto: '3234492471', 
           correo: 'maritzamontejo1234 2016@',
-          rol: 'Estilista',
+          rol: 'Tester',
           image: 'https://imgur.com/3UcCcsb.jpg'
         },
 
@@ -131,7 +131,7 @@ export default {
             descripcion:'Estudiante de Ing. Electrónica. Desarrollador en formación. Músico en los ratos libres',
             contacto: '+584147417189',
             correo:'jorriqueduran@gmail.com',
-            rol: 'Desarrollador',
+            rol: 'Desarrollador Backend',
             image: 'https://imgur.com/w66hONq.jpg'
         },
 
@@ -141,7 +141,7 @@ export default {
           descripcion:'Estudiante de Ciencias de la Computación. Me gusta la música, leer y practico danza árabe.',
           contacto: '3197623800', 
           correo: 'liortiz@unal.edu.co',
-          rol: 'Cientifica',
+          rol: 'Arquitecto Software',
           image: 'https://imgur.com/wqIAAkZ.jpg'
         },
 
@@ -151,7 +151,7 @@ export default {
           descripcion:'Ingeniero en un 98%, me gusta tocar guitarra, jugar futbol de hecho estuve en la liga de bogota casi me ficha el cucuta, practicar boxeo estuve en algunos torneos del IDRD, me gusta montar bicicleta comer cosas nuevas en un futuro viajar por el mundo, coprarme el carro de mis sueños y ser feliz.',
           contacto: '3133932800', 
           correo: 'juanca-castro@hotmail.com',
-          rol: 'Ingeniero en Sistemas',
+          rol: 'Desarrollador Fronted',
           image: 'https://imgur.com/gN5WAKF.jpg'
         }
       ]
